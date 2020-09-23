@@ -1,0 +1,26 @@
+/*font-family: 'Monoton', cursive;
+font-family: 'Space Mono', monospace;
+font-family: 'Yellowtail', cursive;*/
+.post {
+	line-height: 3em;
+}
+.post-text {
+	font-size: 1.40em;
+	font-family: 'Yellowtail', cursive;
+	text-align: justify;
+	word-spacing: 0em;
+	line-height: 1.25em;
+}
+.post-title {
+	font-size: 1.5em;
+	font-family: 'Monoton', cursive;
+}
+.post-info {
+	font-size: 1em;
+	line-height: 2.5em;
+	color: gray;
+	font-family: 'Space Mono', sans-serif;
+}
+.post-author {
+	color: darkblue;
+}

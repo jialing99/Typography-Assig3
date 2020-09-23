@@ -1,0 +1,27 @@
+/*
+	font-family: 'Kreon', serif;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Oswald', sans-serif;
+*/
+.post {
+	line-height: 3em;
+}
+.post-text {
+	font-size: 1.20em;
+	font-family: 'Kreon', serif;
+	text-align: justify;
+	line-height: 1.30em;
+}
+.post-title {
+	font-size: 1.7em;
+	font-family: 'Oswald', sans-serif;
+}
+.post-info {
+	font-size: 1em;
+	line-height: 3em;
+	color: gray;
+	font-family: 'Open Sans', sans-serif;
+}
+.post-author {
+	color: darkblue;
+}

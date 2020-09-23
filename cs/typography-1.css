@@ -1,0 +1,30 @@
+/*
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Roboto', sans-serif;
+*/
+.post {
+	font-family: 'Montserrat', sans-serif;
+	line-height: 3em;
+}
+
+.post-text {
+	font-size: 1.15em;
+	font-family: 'Raleway', sans-serif;
+	text-align: justify;
+	word-spacing: 0.25em;
+	line-height: 1.25em;
+}
+.post-title {
+	font-size: 1.5em;
+	font-family: 'Roboto', sans-serif;
+	line-height: 2em;
+}
+.post-info {
+	font-size: 1em;
+	color: gray;
+	font-family: 'Montserrat', sans-serif;
+}
+.post-author {
+	color: darkblue;
+}
